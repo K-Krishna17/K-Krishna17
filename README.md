@@ -30,7 +30,7 @@ I'm **K. Murali Krishna**, a passionate student diving deep into the worlds of *
 ---
 
 <!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
+
 
 ### 💻 Languages
 <p align="center">
@@ -42,7 +42,6 @@ I'm **K. Murali Krishna**, a passionate student diving deep into the worlds of *
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/VLSI%20Design-7B2D8B?style=for-the-badge&logo=semiconductor&logoColor=white" alt="VLSI"/>
 </p>
 
